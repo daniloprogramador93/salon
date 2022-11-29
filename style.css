@@ -38,7 +38,9 @@ header h4{
     margin-bottom: 3%;
 }
 #redes{
-   
+   background-color: blue;
+   text-align: right;
+   padding-right: 5%;
 } 
 img{
     display: inline-block;

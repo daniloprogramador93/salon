@@ -12,6 +12,9 @@ html,body{
 header {
     background-color: rgb(250, 125, 144);
 }
+#logo{
+    margin-left: 20px;
+}
 header h1{
     display: inline-block;
     background-color: blue;
@@ -34,11 +37,11 @@ menu{
     padding-left: 10%;
 }
 header h4{
-    margin-left: 10%;
+    margin-left: 20%;
     margin-bottom: 3%;
 }
 #redes{
-   background-color: blue;
+   
    text-align: right;
    padding-right: 5%;
 } 
